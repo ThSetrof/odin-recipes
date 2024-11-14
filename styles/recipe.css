@@ -1,0 +1,39 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    width: auto;
+    background-color: bisque;
+    padding: 20px;
+}
+
+h1{
+    padding: 20px;
+    text-align: center;
+}
+
+img{
+    width: 700px;
+
+    border-radius: 4px;
+    margin-bottom: 10px;
+}
+
+p{
+    padding: 20px 20px;
+}
+
+ul, ol{
+    padding: 10px 20px;
+}
+
+li{
+    margin-bottom: 4px;
+}
+
+
+
+
+
